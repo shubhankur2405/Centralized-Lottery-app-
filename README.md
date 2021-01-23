@@ -1,2 +1,1 @@
-# Centralized-Lottery-app-
-MERN application 
+WEB 2.0 
